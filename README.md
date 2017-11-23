@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Blackjack
 =============
 
@@ -26,3 +27,6 @@ Copyright (C) 2013  Tony Spiro
     	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     	GNU General Public License for more details. http://www.gnu.org/licenses/
 # blackjack
+=======
+# blackjack
+>>>>>>> df4e72379c85b45067df7aa4fef88e9869bfffeb
